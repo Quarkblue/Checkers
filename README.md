@@ -1,0 +1,2 @@
+# Checkers
+Tried minimax
